@@ -4,7 +4,7 @@
     -ScriptBlock {
         param([Microsoft.PowerShell.EditorServices.Extensions.EditorContext]$context)
 
-        . "C:\Github\VSCodeExtensions\Find-VSCodeTrendingExtension.ps1"
+        . "C:\Github\VSCodeTrending\Find-VSCodeTrendingExtension.ps1"
 
         $List = @(
             'Find Newest Extensions',
