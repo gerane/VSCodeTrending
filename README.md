@@ -22,7 +22,7 @@ The slack example is using [psCookieMonster's](https://twitter.com/psCookieMonst
  C:\PS> Send-SlackTrending
 ```
 
-![Output](\Images\Slack_Newest_Weekly.png)
+![Output](/Images/Slack_Newest_Weekly.png)
 
 
 ### Most Installed
@@ -31,7 +31,7 @@ The slack example is using [psCookieMonster's](https://twitter.com/psCookieMonst
  C:\PS> Find-VSCodeTrendingExtension -Installs
 ```
 
-![Output](\Images\Console_Installs.png)
+![Output](/Images/Console_Installs.png)
 
 
 ### Highest Rating
@@ -40,7 +40,7 @@ The slack example is using [psCookieMonster's](https://twitter.com/psCookieMonst
  C:\PS> Find-VSCodeTrendingExtension -Rating
 ```
 
-![Output](\Images\Console_Rating.png)
+![Output](/Images/Console_Rating.png)
 
 
 ### Daily, Weekly, and Monthly Trending
@@ -49,7 +49,7 @@ The slack example is using [psCookieMonster's](https://twitter.com/psCookieMonst
  C:\PS> Find-VSCodeTrendingExtension -Trending
 ```
 
-![Output](\Images\Console_Trending.png)
+![Output](/Images/Console_Trending.png)
 
 
 ### Daily Trending
@@ -58,7 +58,7 @@ The slack example is using [psCookieMonster's](https://twitter.com/psCookieMonst
  C:\PS> Find-VSCodeTrendingExtension -Rating -TrendingType Daily
 ```
 
-![Output](\Images\Console_Trending_Daily.png)
+![Output](/Images/Console_Trending_Daily.png)
 
 
 ### Weekly Trending
@@ -67,7 +67,7 @@ The slack example is using [psCookieMonster's](https://twitter.com/psCookieMonst
  C:\PS> Find-VSCodeTrendingExtension -Trending -TrendingType Weekly
 ```
 
-![Output](\Images\Console_Trending_Weekly.png)
+![Output](/Images/Console_Trending_Weekly.png)
 
 
 ### Daily, Weekly, and Monthly Trending Themes
@@ -76,7 +76,7 @@ The slack example is using [psCookieMonster's](https://twitter.com/psCookieMonst
  C:\PS> Find-VSCodeTrendingExtension -Trending -Category Themes
 ```
 
-![Output](\Images\Console_Trending_Themes.png)
+![Output](/Images/Console_Trending_Themes.png)
 
 
 ### Newest Themes - Editor Command
@@ -87,7 +87,7 @@ Access Editor Command Menu
 
 => Select *Find Newest Extensions*
 
-![Output](\Images\EditorCommand_Newest.gif)
+![Output](/Images/EditorCommand_Newest.gif)
 
 
 ## Links
