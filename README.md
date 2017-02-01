@@ -9,7 +9,7 @@ The **Find-VSCodeTrendingExtension.ps1** contains the main logic for gathering t
 
 There are a few examples of how this can be used. You could add one of these to your profile MOTD, but be prepared to add roughly 3-4 seconds to you profile load time. There is always the option of just running the commands in the shell, but also covered are examples of Slack messages and VSCode PowerShell Extension Editor Commands. I currently have a few of these that will occasionally send a slack messages with Statistics that I am interested in.
 
-To get more information on setting up and using Editor Commands you can see this blog post [Getting Started with Editor Commands](http://brandonpadgett.com/powershell/Getting-Started-With-Editor-Commands/)
+To get more information on setting up and using Editor Commands you can see this blog post [Getting Started with Editor Commands](http://brandonpadgett.com/powershell/Getting-Started-With-Editor-Commands/). The Editor Command is in the **EditorCommands.ps1** file. Eventually the output from these will be joined into the main Terminal in VSCode and make these much more useful.
 
 The slack example is using [psCookieMonster's](https://twitter.com/psCookieMonster) PowerShell [PSSlack Module](https://github.com/RamblingCookieMonster/PSSlack). His repository has a nice readme with instructions on how to set it up.
 
