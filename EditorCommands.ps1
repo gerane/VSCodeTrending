@@ -4,6 +4,7 @@
     -ScriptBlock {
         param([Microsoft.PowerShell.EditorServices.Extensions.EditorContext]$context)
 
+        # Replace Path
         . "C:\Github\VSCodeTrending\Find-VSCodeTrendingExtension.ps1"
 
         $List = @(
